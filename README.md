@@ -2,7 +2,6 @@
 
 A fully interactive setup flow for provisioning your ESP32 device via a sleek captive portal and controlling multiple LEDs via either HTTP or serial commands. This project also features handshake logic to communicate with a Unity game, enabling real-time hardware feedback.
 
-⚠️ Note: This project stems from work done for a startup prototype involving ESP32 device provisioning and Unity integration. The version in this repository is a representative example, built for open-source demonstration and stripped of proprietary elements or production-specific code.
 ---
 
 ## 🌟 Features
@@ -98,16 +97,9 @@ To pair with Unity:
 
 ---
 
-## 🚀 Demo Preview (optional)
-Want to see the interface in action? Add screenshots or a video/gif here:
-```
-![Captive UI Screenshot](assets/wifiprovisioning.gif.mp4)
-![LED Control Success](assets/breadboardworking.mp4)
-```
-
----
-
 ## 🎓 Credits
 
 Designed and built with love by [meeee](https://github.com/ndrada) ✨
+
+⚠️ Note: This project stems from work done for a startup prototype involving ESP32 device provisioning and Unity integration. The version in this repository is a representative example, built for open-source demonstration and stripped of proprietary elements or production-specific code.
 
