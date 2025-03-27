@@ -101,8 +101,8 @@ To pair with Unity:
 ## 🚀 Demo Preview (optional)
 Want to see the interface in action? Add screenshots or a video/gif here:
 ```
-![Captive UI Screenshot](assets/wifiprovisioning.gif)
-![LED Control Success](assets/breadboardworking.gif)
+![Captive UI Screenshot](assets/wifiprovisioning.gif.mp4)
+![LED Control Success](assets/breadboardworking.mp4)
 ```
 
 ---
